@@ -44,6 +44,7 @@ public class MaximumSubarray {
         }
     }
 
+    // Kandane's Algorithm
     private static long maxSumSubarr(int[] arr) {
         long maxSum = 0;
         long maxAtI = 0;

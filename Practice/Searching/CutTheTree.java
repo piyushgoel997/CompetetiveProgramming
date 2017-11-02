@@ -8,6 +8,9 @@ import java.util.Scanner;
  * HackerRank. Searching, Graph/Tree - Medium. Correct.
  */
 public class CutTheTree {
+
+    // Important approach (also use in GraphTheory/EvenTree)
+
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int n = s.nextInt();

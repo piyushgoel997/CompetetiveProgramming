@@ -9,8 +9,8 @@ public class LIS {
     // Longest Increasing Sub-sequence.
 
     /*
-    Example -8 16 8 1 10 11 4 3 12
-    correct output - 4
+    Example -> 8 16 8 1 10 11 4 3 12
+    correct output -> 4
      */
 
     private static int[] dp;

@@ -14,6 +14,9 @@
       <sourceFolder url="file://$MODULE_DIR$/CodeJam2017/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/HackerEarth" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Practice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CodeChef" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CodeForces/441" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CodeForces/443" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
