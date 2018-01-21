@@ -17,6 +17,13 @@
       <sourceFolder url="file://$MODULE_DIR$/CodeChef" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CodeForces/441" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CodeForces/443" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CodeForces/449" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRank/101Hack52" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRank/WorldCodeSprint12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CodeForces/453" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CodeForces/454" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CodeForces/455" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CodeForces/Edu35" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
