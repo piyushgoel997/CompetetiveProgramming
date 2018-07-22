@@ -64,7 +64,7 @@ public class Replace {
 //        }
 //        for (int i = 0; i < q; i++) {
 //            if (s.nextInt() == 1) {
-//                one(s.nextInt() - 1, s.nextInt() - 1, s.nextInt(), s.nextInt(), index);
+//                IfAtFirst(s.nextInt() - 1, s.nextInt() - 1, s.nextInt(), s.nextInt(), index);
 //            } else {
 //                System.out.println(two(s.nextInt() - 1, s.nextInt() - 1, s.nextInt(), index));
 //            }
@@ -82,7 +82,7 @@ public class Replace {
 //        return count;
 //    }
 //
-//    private static void one(int a, int b, int x, int y, HashMap<Integer, Set<Integer>> index) {
+//    private static void IfAtFirst(int a, int b, int x, int y, HashMap<Integer, Set<Integer>> index) {
 //        if (x == y) return;
 //        if (!index.containsKey(x)) return;
 //        for (Iterator<Integer> it = index.get(x).iterator(); it.hasNext(); ) {

@@ -52,7 +52,7 @@ public class LongestPalindromicSubstring {
             for (; j <= Math.min(i, string.length() - 1 - i); j++) {
                 if (string.charAt(i - j) != string.charAt(i + j)) break;
             }
-            if ((2 * j) - 1 > longestPal.length()) { // -1 because j will be one more than it should have been.
+            if ((2 * j) - 1 > longestPal.length()) { // -1 because j will be IfAtFirst more than it should have been.
                 j--;
                 longestPal = string.substring(i - j, i + j + 1);
             }

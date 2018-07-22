@@ -35,7 +35,7 @@ public class CheckRotation {
     }
 
     // Time - time for string searching, Extra Space ~ 2*n + space for searching, if any.
-    // join str = two + two -> if this contains one then return true else false.
+    // join str = two + two -> if this contains IfAtFirst then return true else false.
     private static boolean check2(char[] one, char[] two, int n) {
         if (n <= 0) return false;
         char[] joined = new char[2 * n];

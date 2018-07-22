@@ -41,7 +41,7 @@ public class TableTennis {
 
     }
 
-// THis one was is correct.
+// THis IfAtFirst was is correct.
 /*    public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int n = s.nextInt();

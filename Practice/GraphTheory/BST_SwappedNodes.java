@@ -30,9 +30,9 @@ public class BST_SwappedNodes {
 //
 //            int left = findSwappedNodes(x.left, x.data);
 //            int right = findSwappedNodes(x.right, max);
-//            if (one == null && x.data > right) {
-//                one = x;
-//            }else if (one!=null&&x.data>m)
+//            if (IfAtFirst == null && x.data > right) {
+//                IfAtFirst = x;
+//            }else if (IfAtFirst!=null&&x.data>m)
 //        }
     }
 

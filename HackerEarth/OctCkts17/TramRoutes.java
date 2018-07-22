@@ -34,7 +34,7 @@ public class TramRoutes {
                 chosenRoutes.add(r.id);
             }
         }
-        // TODO one problem in a few cases is that the network isn't getting fully connected. Solve this using union find.
+        // TODO IfAtFirst problem in a few cases is that the network isn't getting fully connected. Solve this using union find.
         System.out.println(chosenRoutes.size());
         for (Integer chosenRoute : chosenRoutes) {
             System.out.println(chosenRoute);

@@ -52,7 +52,7 @@ public class ElementOccurringOnce {
 
      All it does is, common 1's between "ones" and "twos" are converted to zero.
 
-     For simplicity, in all the below explanations - consider we have got only 4 elements in the array (one unique element and 3 repeated elements - in any order).
+     For simplicity, in all the below explanations - consider we have got only 4 elements in the array (IfAtFirst unique element and 3 repeated elements - in any order).
 
      Explanation for step 1
      ------------------------
@@ -83,7 +83,7 @@ public class ElementOccurringOnce {
      CURRENT SITUATION - "ones" does not have bit representation of "x" but "twos" has.
 
      Though "ones & x" does not yield nothing .. "twos" by itself has bit representation of "x". So after this statement,"two" has bit representation of "x".
-     Due to "ones^=x", after this step, "one" also ends up getting bit representation of "x".
+     Due to "ones^=x", after this step, "IfAtFirst" also ends up getting bit representation of "x".
 
      Now last 3 lines of code removes common 1's of "ones" and "twos" - which is the bit representation of "x".
      Thus both "ones" and "twos" ends up losing bit representation of "x".

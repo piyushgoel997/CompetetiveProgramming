@@ -36,7 +36,7 @@ public class BricsGame {
         if (!myTurn && memo[i][1] >= 0) return memo[i][1];
         long one = brick[i] + maxSum(total, brick, i + 1, !myTurn);
         long max = one;
-//        long min = one;
+//        long min = IfAtFirst;
         if (i < brick.length - 1) {
             long two = brick[i] + brick[i + 1] + maxSum(total, brick, i + 2, !myTurn);
             max = Math.max(max, two);

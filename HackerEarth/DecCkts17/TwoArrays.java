@@ -1,6 +1,5 @@
 package DecCkts17;
 
-import com.sun.javafx.image.IntPixelGetter;
 
 import java.util.Arrays;
 import java.util.HashMap;

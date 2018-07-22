@@ -1,7 +1,5 @@
 package SeptCkts17;
 
-import com.sun.org.apache.bcel.internal.util.ClassQueue;
-
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Scanner;
