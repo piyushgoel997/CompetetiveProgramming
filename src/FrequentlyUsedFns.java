@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class FrequentlyUsedFns {
     private static long fastExp(long x, long n, long mod) {
         long ans = 1;
@@ -16,6 +18,43 @@ public class FrequentlyUsedFns {
             factorials[i] = factorials[i - 1] * i;
         }
         return factorials;
+    }
+
+    private static long gcd(long a, long b) {
+        if (a == 0) return b;
+        return gcd(b % a, a);
+    }
+
+    // sieve of eratosthenes
+    private static boolean[] primeSeive(int n) {
+        boolean[] isPrime = new boolean[n + 1];
+        Arrays.fill(isPrime, true);
+        for (int i = 2; i*i <= n; i++) {
+            if (isPrime[i]) for (int j = 2*i; j <= n; j += i) isPrime[j] = false;
+        }
+        return isPrime;
+    }
+
+    private static long modInverse(long a, long m) {
+        long m0 = m;
+        long x = 1;
+        long y = 0;
+
+        if (m == 1) return 0;
+
+        while (a > 1) {
+            long q = a / m;
+            long t = m;
+            m = a % m;
+            a = t;
+            t = y;
+            y = x - q * y;
+            x = t;
+        }
+
+        if (x < 0) x += m0;
+
+        return x;
     }
 
 }
