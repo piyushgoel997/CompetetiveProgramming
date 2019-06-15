@@ -232,50 +232,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="MinimumDiameterTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeForces/528/MinimumDiameterTree.java">
+      <file leaf-file-name="IntenseStatistics.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeChef/CCRT10/IntenseStatistics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="8" column="18" selection-start-line="7" selection-end-line="10" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CardGame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeForces/Hello2019/CardGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PetrCombinationLock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeForces/Hello2019/PetrCombinationLock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="YuhaoParenthesis.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeForces/Hello2019/YuhaoParenthesis.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MakotoBlackboard.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodeForces/Hello2019/MakotoBlackboard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            <state>
+              <caret line="10" column="9" selection-start-line="10" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -286,8 +247,44 @@
       <file leaf-file-name="FrequentlyUsedFns.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FrequentlyUsedFns.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" selection-start-line="22" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="12" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeapfrogCh2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/LeapfrogCh2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="13" column="63" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MrX.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/MrX.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="61" column="30" lean-forward="true" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MrX_Output.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/MrX_Output.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-510">
+              <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -316,50 +313,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodeForces/506/CreatingTheContest.java" />
-        <option value="$PROJECT_DIR$/CodeForces/506/MaximalIntersection.java" />
-        <option value="$PROJECT_DIR$/CodeForces/506/ConcatinatedMultiples.java" />
-        <option value="$PROJECT_DIR$/CodeForces/509/Heist.java" />
-        <option value="$PROJECT_DIR$/CodeForces/509/BuyingTV.java" />
-        <option value="$PROJECT_DIR$/CodeForces/509/CoffeeBreaks.java" />
-        <option value="$PROJECT_DIR$/CodeForces/509/Glider.java" />
-        <option value="$PROJECT_DIR$/CodeForces/510/Vitamins.java" />
-        <option value="$PROJECT_DIR$/CodeForces/510/PetyaAndArray.java" />
-        <option value="$PROJECT_DIR$/src/FrequentlyUsedFns.java" />
-        <option value="$PROJECT_DIR$/CodeForces/510/Benches.java" />
-        <option value="$PROJECT_DIR$/InterviewBit/Finals/FactorialArray.java" />
-        <option value="$PROJECT_DIR$/InterviewBit/Finals/RevisedMinSumPath.java" />
-        <option value="$PROJECT_DIR$/InterviewBit/Finals/FactArray.java" />
-        <option value="$PROJECT_DIR$/InterviewBit/Finals/OptimizePrime.java" />
-        <option value="$PROJECT_DIR$/CodeForces/LyftLevel5/AL.java" />
-        <option value="$PROJECT_DIR$/CodeForces/LyftLevel5/SquareDifference.java" />
-        <option value="$PROJECT_DIR$/CodeForces/LyftLevel5/PermutationGame.java" />
-        <option value="$PROJECT_DIR$/CodeForces/LyftLevel5/Divisors.java" />
-        <option value="$PROJECT_DIR$/CodeChef/SnackDown2019/QUALPREL.java" />
-        <option value="$PROJECT_DIR$/CodeChef/SnackDown2019/QBAC.java" />
-        <option value="$PROJECT_DIR$/CodeChef/SnackDown2019/TYPING.java" />
-        <option value="$PROJECT_DIR$/CodeChef/SnackDown2019/CARDMGK.java" />
-        <option value="$PROJECT_DIR$/CodeChef/SnackDown2019/ARRGRAPH.java" />
-        <option value="$PROJECT_DIR$/CodeChef/ICPC/icpc2.java" />
-        <option value="$PROJECT_DIR$/CodeChef/ICPC/icpc3.java" />
-        <option value="$PROJECT_DIR$/CodeChef/ICPC/icpc1.java" />
-        <option value="$PROJECT_DIR$/CodeChef/SnackDown2019/ArrangingTheInventory.java" />
-        <option value="$PROJECT_DIR$/CodeChef/SnackDown2019/BuddyNIM.java" />
-        <option value="$PROJECT_DIR$/CodeForces/528/RightleftCipher.java" />
-        <option value="$PROJECT_DIR$/CodeForces/528/DivTimesMod.java" />
-        <option value="$PROJECT_DIR$/CodeForces/528/ConnectThree.java" />
-        <option value="$PROJECT_DIR$/CodeForces/528/MinimumDiameterTree.java" />
-        <option value="$PROJECT_DIR$/CodeForces/529/A529.java" />
-        <option value="$PROJECT_DIR$/CodeForces/529/A5291.java" />
-        <option value="$PROJECT_DIR$/CodeForces/529/RepeatingCipher.java" />
-        <option value="$PROJECT_DIR$/CodeForces/529/PowersOfTwo.java" />
-        <option value="$PROJECT_DIR$/CodeForces/529/AlmostRegularBracketSequence.java" />
-        <option value="$PROJECT_DIR$/CodeForces/529/CircularDance.java" />
-        <option value="$PROJECT_DIR$/CodeForces/529/ArrayStabalization.java" />
-        <option value="$PROJECT_DIR$/CodeForces/Edu57/FindDivisible.java" />
-        <option value="$PROJECT_DIR$/CodeForces/Edu57/SubstringRemoval.java" />
-        <option value="$PROJECT_DIR$/CodeForces/Edu57/PolygonForTheAngle.java" />
-        <option value="$PROJECT_DIR$/CodeForces/Edu57/EasyProblem.java" />
         <option value="$PROJECT_DIR$/CodeForces/GoodBye2018/ChristmasOrnament.java" />
         <option value="$PROJECT_DIR$/CodeForces/GoodBye2018/TreasureGeolocation.java" />
         <option value="$PROJECT_DIR$/CodeForces/GoodBye2018/SphereTransmission.java" />
@@ -367,6 +320,50 @@
         <option value="$PROJECT_DIR$/CodeForces/Hello2019/YuhaoParenthesis.java" />
         <option value="$PROJECT_DIR$/CodeForces/Hello2019/PetrCombinationLock.java" />
         <option value="$PROJECT_DIR$/CodeForces/Hello2019/MakotoBlackboard.java" />
+        <option value="$PROJECT_DIR$/main/TaskE.java" />
+        <option value="$PROJECT_DIR$/CodeForces/Edu58/TaskA.java" />
+        <option value="$PROJECT_DIR$/CodeForces/Edu58/TaskB.java" />
+        <option value="$PROJECT_DIR$/CodeForces/Edu58/DivisionUnion.java" />
+        <option value="$PROJECT_DIR$/CodeForces/Edu58/PolycarpNewJob.java" />
+        <option value="$PROJECT_DIR$/CodeForces/Edu58/GCDCounting.java" />
+        <option value="$PROJECT_DIR$/CodeForces/532/TaskA.java" />
+        <option value="$PROJECT_DIR$/CodeForces/532/TaskB.java" />
+        <option value="$PROJECT_DIR$/CodeForces/532/NNandOpticalIllusion.java" />
+        <option value="$PROJECT_DIR$/CodeForces/532/DashaAndChess.java" />
+        <option value="$PROJECT_DIR$/CodeForces/532/RomanAndBrowser.java" />
+        <option value="$PROJECT_DIR$/CodeForces/542/A542.java" />
+        <option value="$PROJECT_DIR$/CodeForces/542/TwoCakes.java" />
+        <option value="$PROJECT_DIR$/CodeForces/542/TwoCakes542.java" />
+        <option value="$PROJECT_DIR$/CodeForces/542/Connect542.java" />
+        <option value="$PROJECT_DIR$/CodeForces/542/ToyTrain.java" />
+        <option value="$PROJECT_DIR$/CodeJam2017/CodeJam2019/ForgoneSolution.java" />
+        <option value="$PROJECT_DIR$/CodeJam2017/CodeJam2019/YouCanGoYourOwnWay.java" />
+        <option value="$PROJECT_DIR$/CodeJam2017/CodeJam2019/Cryptopangrams.java" />
+        <option value="$PROJECT_DIR$/CodeJam2017/CodeJam2019/DatBae.java" />
+        <option value="$PROJECT_DIR$/CodeChef/CCRT10/First.java" />
+        <option value="$PROJECT_DIR$/CodeChef/CCRT10/TreesAndSubtrees.java" />
+        <option value="$PROJECT_DIR$/CodeChef/CCRT10/IntenseStatistics.java" />
+        <option value="$PROJECT_DIR$/APAC/src/Temporary.java" />
+        <option value="$PROJECT_DIR$/APAC/src/RobotProgrammingStrategy.java" />
+        <option value="$PROJECT_DIR$/APAC/src/PowerArrangers.java" />
+        <option value="$PROJECT_DIR$/Practice/rough.java" />
+        <option value="$PROJECT_DIR$/CodeForces/Edu65/Edu65A.java" />
+        <option value="$PROJECT_DIR$/CodeForces/Edu65/TelephoneNumber.java" />
+        <option value="$PROJECT_DIR$/CodeForces/Edu65/NewsDistribution.java" />
+        <option value="$PROJECT_DIR$/CodeForces/Edu65/LostNumbers.java" />
+        <option value="$PROJECT_DIR$/CodeForces/556/TilingChallenge.java" />
+        <option value="$PROJECT_DIR$/src/FrequentlyUsedFns.java" />
+        <option value="$PROJECT_DIR$/CodeForces/556/PrefixSumPrimes.java" />
+        <option value="$PROJECT_DIR$/CodeForces/556/A556.java" />
+        <option value="$PROJECT_DIR$/CodeForces/556/StockArbitraging.java" />
+        <option value="$PROJECT_DIR$/CodeForces/556/ThreeReligions.java" />
+        <option value="$PROJECT_DIR$/CodeJam2017/CodeJam2019/NewElementsPart1.java" />
+        <option value="$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/LeapfrogCh1.java" />
+        <option value="$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/LeapfrogCh1_Output" />
+        <option value="$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/LeapfrogCh2.java" />
+        <option value="$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/LeapfrogCh2_Output.txt" />
+        <option value="$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/MrX.java" />
+        <option value="$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/MrX_Output.txt" />
       </list>
     </option>
   </component>
@@ -379,10 +376,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="946" />
-    <option name="width" value="980" />
-    <option name="height" value="1039" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -391,12 +388,39 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CompetetiveProgramming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompetetiveProgramming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompetetiveProgramming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompetetiveProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="FacebookHackerCup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompetetiveProgramming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompetetiveProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="FacebookHackerCup" type="462c0819:PsiDirectoryNode" />
+              <item name="2019QualificationRound" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Deep Learning/Colorization" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -420,32 +444,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MakotoBlackboard">
+  <component name="RunManager" selected="Application.MrX">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="CardGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CardGame" />
+    <configuration name="IntenseStatistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CCRT10.IntenseStatistics" />
+      <module name="CompetetiveProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CCRT10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="LeapfrogCh1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeapfrogCh1" />
       <module name="CompetetiveProgramming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="MakotoBlackboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MakotoBlackboard" />
+    <configuration name="LeapfrogCh2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeapfrogCh2" />
       <module name="CompetetiveProgramming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="PetrCombinationLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PetrCombinationLock" />
+    <configuration name="LostNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LostNumbers" />
       <module name="CompetetiveProgramming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="SphereTransmission" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SphereTransmission" />
+    <configuration name="MrX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MrX" />
       <module name="CompetetiveProgramming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="YuhaoParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="YuhaoParenthesis" />
+    <configuration name="NewElementsPart1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewElementsPart1" />
+      <module name="CompetetiveProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="PrefixSumPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrefixSumPrimes" />
       <module name="CompetetiveProgramming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -467,6 +507,60 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="E - Almost Regular Bracket Sequence" type="Task" factoryName="Task">
+      <taskConf />
+      <method>
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Task" type="Task" factoryName="Task">
+      <taskConf />
+      <method>
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -491,19 +585,21 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.SphereTransmission" />
-      <item itemvalue="Application.CardGame" />
-      <item itemvalue="Application.PetrCombinationLock" />
-      <item itemvalue="Application.YuhaoParenthesis" />
-      <item itemvalue="Application.MakotoBlackboard" />
+      <item itemvalue="Task.E - Almost Regular Bracket Sequence" />
+      <item itemvalue="Task.Task" />
+      <item itemvalue="Application.NewElementsPart1" />
+      <item itemvalue="Application.PrefixSumPrimes" />
+      <item itemvalue="Application.LeapfrogCh1" />
+      <item itemvalue="Application.LeapfrogCh2" />
+      <item itemvalue="Application.MrX" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MakotoBlackboard" />
-        <item itemvalue="Application.PetrCombinationLock" />
-        <item itemvalue="Application.YuhaoParenthesis" />
-        <item itemvalue="Application.CardGame" />
-        <item itemvalue="Application.SphereTransmission" />
+        <item itemvalue="Application.MrX" />
+        <item itemvalue="Application.LeapfrogCh2" />
+        <item itemvalue="Application.LeapfrogCh1" />
+        <item itemvalue="Application.NewElementsPart1" />
+        <item itemvalue="Application.PrefixSumPrimes" />
       </list>
     </recent_temporary>
   </component>
@@ -602,29 +698,30 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="2" weight="0.32941177" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.31369662" />
       <window_info id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5055249" side_tool="true" weight="0.34195402" />
       <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49447513" visible="true" weight="0.40353462" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49447513" weight="0.34195402" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.28120807" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.2758389" />
       <window_info id="Structure" order="1" sideWeight="0.50214595" side_tool="true" weight="0.34951457" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.5603329" weight="0.48306334" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.5603329" weight="0.48563218" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="6" weight="0.31609195" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -807,6 +904,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/MrX.java</url>
+          <line>28</line>
+          <properties class="MrX" method="minimize">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="323" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/APAC/src/DiwaliLightings.java</url>
@@ -1120,11 +1225,47 @@
           <properties />
           <option name="timeStamp" value="295" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CodeForces/Edu58/Accordion.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CodeForces/542/ToyTrain.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CodeForces/542/ToyTrain.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/APAC/src/Temporary.java</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CodeForces/Edu65/NewsDistribution.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CodeForces/556/TilingChallenge.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="319" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="300" />
+      <option name="time" value="324" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -1138,330 +1279,12 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodeForces/506/MaximalIntersection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/505/WeakenedCommonDivisor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/506/ConcatinatedMultiples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/509/Heist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="49" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="3814" column="25" selection-start-line="3814" selection-start-column="25" selection-end-line="3814" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/509/Glider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/510/Vitamins.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/509/CoffeeBreaks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InterviewBit/Finals/RevisedMinSumPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/LyftLevel5/AL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/LyftLevel5/SquareDifference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InterviewBit/Finals/OptimizePrime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InterviewBit/Finals/FactArray.java">
+    <entry file="file://$PROJECT_DIR$/src/TestCHelper/Task.java" />
+    <entry file="file://$PROJECT_DIR$/src/TestCHelper/Task.json" />
+    <entry file="file://$PROJECT_DIR$/CodeForces/Hello2019/MakotoBlackboard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
-          <caret line="139" selection-start-line="139" selection-end-line="139" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/LyftLevel5/PermutationGame.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/LyftLevel5/Divisors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/510/Benches.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/510/PetyaAndArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/SnackDown2019/TYPING.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/509/BuyingTV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="64" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="8" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/SnackDown2019/QBAC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/SnackDown2019/QUALPREL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="18" column="52" selection-start-line="15" selection-start-column="12" selection-end-line="18" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/SnackDown2019/ARRGRAPH.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/SnackDown2019/CARDMGK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/io/BufferedReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="390" column="18" selection-start-line="390" selection-start-column="18" selection-end-line="390" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/ICPC/icpc2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/ICPC/icpc3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="72" column="43" selection-start-line="72" selection-start-column="43" selection-end-line="72" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/SnackDown2019/BuddyNIM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/ICPC/icpc1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="13" column="37" selection-start-line="10" selection-start-column="8" selection-end-line="13" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/528/ConnectThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/528/DivTimesMod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/528/RightleftCipher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="15" column="26" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/SnackDown2019/ArrangingTheInventory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/529/PowersOfTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="29" column="19" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/529/RepeatingCipher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="19" lean-forward="true" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/529/ArrayStabalization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/Edu57/PolygonForTheAngle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/Edu57/FindDivisible.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/Edu57/SubstringRemoval.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/529/CircularDance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/GoodBye2018/ChristmasOrnament.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/529/AlmostRegularBracketSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/Edu57/EasyProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="60" column="29" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/GoodBye2018/SphereTransmission.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/GoodBye2018/TreasureGeolocation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/528/MinimumDiameterTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="18" selection-start-line="7" selection-end-line="10" selection-end-column="49" />
+          <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1475,31 +1298,346 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/Hello2019/YuhaoParenthesis.java">
+    <entry file="file://$PROJECT_DIR$/CodeForces/Edu58/MinimumInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="238">
+          <caret line="14" column="47" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/Hello2019/PetrCombinationLock.java">
+    <entry file="file://$PROJECT_DIR$/CodeForces/Edu58/Accordion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="29" column="35" lean-forward="true" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/Edu58/DivisionUnion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/Edu58/PolycarpNewJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/475/AlternatingSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/Edu58/GCDCounting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="234" column="21" selection-start-line="234" selection-start-column="21" selection-end-line="234" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="152" column="25" selection-start-line="152" selection-start-column="25" selection-end-line="152" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/532/NNandOpticalIllusion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/532/DashaAndChess.java" />
+    <entry file="file://$PROJECT_DIR$/CodeForces/532/RomanAndBrowser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="13" column="24" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/528/MinimumDiameterTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/542/A542.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/542/TwoCakes542.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/542/ToyTrain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/542/Connect542.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeJam2017/CodeJam2019/ForgoneSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeJam2017/CodeJam2019/YouCanGoYourOwnWay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35616">
+          <caret line="126" column="13" selection-start-line="126" selection-start-column="13" selection-end-line="126" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeChef/Jan18/KConcatenation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeChef/CCRT10/First.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeChef/CCRT10/TreesAndSubtrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeJam2017/CodeJam2019/DatBae.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeJam2017/CodeJam2019/Cryptopangrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/532/BuildAContest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APAC/src/PowerArrangers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APAC/src/RobotProgrammingStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-406">
+          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="83" column="13" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/rough.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/Edu65/TelephoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/Edu65/LostNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/Edu65/NewsDistribution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APAC/src/Temporary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeChef/CCRT10/IntenseStatistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" column="9" selection-start-line="10" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/556/TilingChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="37" lean-forward="true" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/556/PrefixSumPrimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="38" lean-forward="true" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/556/StockArbitraging.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/StringTokenizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="333" column="18" selection-start-line="333" selection-start-column="18" selection-end-line="333" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/556/ThreeReligions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeJam2017/CodeJam2019/NewElementsPart1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/LeapfrogCh1_Output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="499" column="12" selection-start-line="499" selection-start-column="12" selection-end-line="499" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/LeapfrogCh1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/LeapfrogCh2_Output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8483">
+          <caret line="499" column="12" selection-start-line="499" selection-start-column="12" selection-end-line="499" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FrequentlyUsedFns.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="12" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/Hello2019/MakotoBlackboard.java">
+    <entry file="file://$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/LeapfrogCh2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        <state relative-caret-position="119">
+          <caret line="13" column="63" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/MrX_Output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/MrX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="61" column="30" lean-forward="true" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

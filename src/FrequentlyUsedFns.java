@@ -1,6 +1,23 @@
+import java.io.*;
 import java.util.Arrays;
+import java.util.StringTokenizer;
 
 public class FrequentlyUsedFns {
+
+    //TODO from Codechef/CCRT10/IntenseStatistics.java take min, max, sum segment tree.
+
+    public static void main(String[] args) throws IOException {
+        // fast input
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        int n = Integer.parseInt(st.nextToken());
+
+        // fast output
+        BufferedWriter log = new BufferedWriter(new OutputStreamWriter(System.out));
+        log.write("str\n");
+
+        log.flush();
+    }
     private static long fastExp(long x, long n, long mod) {
         long ans = 1;
         while (n > 0) {
@@ -32,6 +49,8 @@ public class FrequentlyUsedFns {
         for (int i = 2; i*i <= n; i++) {
             if (isPrime[i]) for (int j = 2*i; j <= n; j += i) isPrime[j] = false;
         }
+        isPrime[0] = false;
+        if (n > 0) isPrime[1] = false;
         return isPrime;
     }
 

@@ -53,8 +53,17 @@
       <sourceFolder url="file://$MODULE_DIR$/CodeForces/Edu57" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CodeForces/GoodBye2018" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CodeForces/Hello2019" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CodeForces/Edu58" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CodeForces/532" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CodeForces/542" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CodeJam2017/CodeJam2019" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CodeForces/Edu65" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CodeForces/556" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FacebookHackerCup/2019QualificationRound" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="CHelper" level="project" />
   </component>
 </module>
