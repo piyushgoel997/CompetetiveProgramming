@@ -232,23 +232,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="IntenseStatistics.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeChef/CCRT10/IntenseStatistics.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="10" column="9" selection-start-line="10" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FrequentlyUsedFns.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FrequentlyUsedFns.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="12" selection-end-column="49" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="12" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -256,35 +244,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeapfrogCh2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/LeapfrogCh2.java">
+      <file leaf-file-name="A569.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodeForces/569/A569.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="13" column="63" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="63" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MrX.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/MrX.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="61" column="30" lean-forward="true" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MrX_Output.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/MrX_Output.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-510">
-              <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -313,11 +280,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodeForces/GoodBye2018/ChristmasOrnament.java" />
-        <option value="$PROJECT_DIR$/CodeForces/GoodBye2018/TreasureGeolocation.java" />
-        <option value="$PROJECT_DIR$/CodeForces/GoodBye2018/SphereTransmission.java" />
-        <option value="$PROJECT_DIR$/CodeForces/Hello2019/CardGame.java" />
-        <option value="$PROJECT_DIR$/CodeForces/Hello2019/YuhaoParenthesis.java" />
         <option value="$PROJECT_DIR$/CodeForces/Hello2019/PetrCombinationLock.java" />
         <option value="$PROJECT_DIR$/CodeForces/Hello2019/MakotoBlackboard.java" />
         <option value="$PROJECT_DIR$/main/TaskE.java" />
@@ -364,6 +326,11 @@
         <option value="$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/LeapfrogCh2_Output.txt" />
         <option value="$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/MrX.java" />
         <option value="$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/MrX_Output.txt" />
+        <option value="$PROJECT_DIR$/CodeForces/568/A568.java" />
+        <option value="$PROJECT_DIR$/CodeForces/568/EmailFromPolycarp.java" />
+        <option value="$PROJECT_DIR$/CodeForces/568/ExamInBerSU.java" />
+        <option value="$PROJECT_DIR$/CodeForces/568/ExtraElement.java" />
+        <option value="$PROJECT_DIR$/CodeForces/569/A569.java" />
       </list>
     </option>
   </component>
@@ -376,10 +343,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="950" />
-    <option name="width" value="979" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -389,6 +356,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -400,20 +369,24 @@
             <path>
               <item name="CompetetiveProgramming" type="b2602c69:ProjectViewProjectNode" />
               <item name="CompetetiveProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="FacebookHackerCup" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeForces" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CompetetiveProgramming" type="b2602c69:ProjectViewProjectNode" />
               <item name="CompetetiveProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="FacebookHackerCup" type="462c0819:PsiDirectoryNode" />
-              <item name="2019QualificationRound" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeForces" type="462c0819:PsiDirectoryNode" />
+              <item name="568" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompetetiveProgramming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompetetiveProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeForces" type="462c0819:PsiDirectoryNode" />
+              <item name="569" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -444,48 +417,42 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MrX">
+  <component name="RunManager" selected="Application.A569">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="IntenseStatistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CCRT10.IntenseStatistics" />
+    <configuration name="A568" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A568" />
       <module name="CompetetiveProgramming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CCRT10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    </configuration>
+    <configuration name="A569" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A569" />
+      <module name="CompetetiveProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="EmailFromPolycarp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmailFromPolycarp" />
+      <module name="CompetetiveProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ExamInBerSU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamInBerSU" />
+      <module name="CompetetiveProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ExtraElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExtraElement" />
+      <module name="CompetetiveProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="LeapfrogCh1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeapfrogCh1" />
       <module name="CompetetiveProgramming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="LeapfrogCh2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeapfrogCh2" />
-      <module name="CompetetiveProgramming" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
     <configuration name="LostNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LostNumbers" />
-      <module name="CompetetiveProgramming" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="MrX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MrX" />
-      <module name="CompetetiveProgramming" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="NewElementsPart1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewElementsPart1" />
-      <module name="CompetetiveProgramming" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="PrefixSumPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrefixSumPrimes" />
       <module name="CompetetiveProgramming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -511,6 +478,8 @@
     <configuration name="E - Almost Regular Bracket Sequence" type="Task" factoryName="Task">
       <taskConf />
       <method>
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
@@ -560,6 +529,8 @@
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
         <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
+        <option name="MakeProject" enabled="false" />
       </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -587,19 +558,19 @@
     <list>
       <item itemvalue="Task.E - Almost Regular Bracket Sequence" />
       <item itemvalue="Task.Task" />
-      <item itemvalue="Application.NewElementsPart1" />
-      <item itemvalue="Application.PrefixSumPrimes" />
-      <item itemvalue="Application.LeapfrogCh1" />
-      <item itemvalue="Application.LeapfrogCh2" />
-      <item itemvalue="Application.MrX" />
+      <item itemvalue="Application.A568" />
+      <item itemvalue="Application.EmailFromPolycarp" />
+      <item itemvalue="Application.ExamInBerSU" />
+      <item itemvalue="Application.ExtraElement" />
+      <item itemvalue="Application.A569" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MrX" />
-        <item itemvalue="Application.LeapfrogCh2" />
-        <item itemvalue="Application.LeapfrogCh1" />
-        <item itemvalue="Application.NewElementsPart1" />
-        <item itemvalue="Application.PrefixSumPrimes" />
+        <item itemvalue="Application.A569" />
+        <item itemvalue="Application.ExtraElement" />
+        <item itemvalue="Application.ExamInBerSU" />
+        <item itemvalue="Application.EmailFromPolycarp" />
+        <item itemvalue="Application.A568" />
       </list>
     </recent_temporary>
   </component>
@@ -697,8 +668,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="2" weight="0.32941177" />
@@ -708,22 +678,22 @@
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5055249" side_tool="true" weight="0.34195402" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49447513" visible="true" weight="0.40353462" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49447513" weight="0.41795665" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32941177" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.2758389" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49785408" weight="0.28710124" />
       <window_info id="Structure" order="1" sideWeight="0.50214595" side_tool="true" weight="0.34951457" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.5603329" weight="0.48306334" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.5603329" weight="0.48297215" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -1261,11 +1231,23 @@
           <properties />
           <option name="timeStamp" value="319" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CodeForces/568/EmailFromPolycarp.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="327" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CodeForces/568/ExamInBerSU.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="324" />
+      <option name="time" value="331" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -1279,32 +1261,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/TestCHelper/Task.java" />
-    <entry file="file://$PROJECT_DIR$/src/TestCHelper/Task.json" />
-    <entry file="file://$PROJECT_DIR$/CodeForces/Hello2019/MakotoBlackboard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/Hello2019/CardGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/Edu58/MinimumInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="47" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeForces/Edu58/Accordion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
@@ -1530,11 +1486,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodeChef/CCRT10/IntenseStatistics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="153">
           <caret line="10" column="9" selection-start-line="10" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1577,9 +1530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1594,9 +1544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1607,37 +1554,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FrequentlyUsedFns.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="12" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/LeapfrogCh2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" column="63" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="13" column="63" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="63" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/MrX_Output.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
-          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        <state relative-caret-position="336">
+          <caret line="499" column="12" selection-start-line="499" selection-start-column="12" selection-end-line="499" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FacebookHackerCup/2019QualificationRound/MrX.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="61" column="30" lean-forward="true" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+        <state relative-caret-position="187">
+          <caret line="28" column="77" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#MrX#0" />
+            <element signature="method#minimize#0;class#MrX#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/568/A568.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/568/EmailFromPolycarp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/568/ExtraElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/568/ExamInBerSU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FrequentlyUsedFns.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="12" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/569/A569.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
